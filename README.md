@@ -1,5 +1,5 @@
-# Template
+# Agro Forestry
 
-CAD template files for template project
+CAD files for Agro Forestry project
 
-<https://notes.grwd.uk/>
+<https://notes.grwd.uk/agro>
